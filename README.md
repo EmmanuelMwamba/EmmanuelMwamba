@@ -11,9 +11,9 @@
 - 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases and Machine Learning**l
 - ✨ I’m a creative thinker with an eye for design and code that delivers value
 - 📬 Reach me at: *mwambaemmanuel005@gmail.com**
-- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.netlify.app)
+- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.vercel.app)
 - 🧑‍💻 Open to freelance work – currently freelancing on **Upwork**
-- 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
 
