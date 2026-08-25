@@ -1,73 +1,240 @@
-# Hi 👋, I'm Emmanuel 
+<div align="center">
 
-**Software Engineering Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher**
+# Hi, I'm Emmanuel
 
----
+### Software Developer · Startup Founder · Builder
 
-### About Me
+**I build software, solve problems, and turn ideas into products.**
 
-- 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**
-- 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases and Machine Learning**l
-- ✨ I’m a creative thinker with an eye for design and code that delivers value
-- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.vercel.app)
-- 🧑‍💻 Open to freelance work – currently freelancing on **Upwork**
-- 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
+<br>
 
----
+<a href="https://www.mwambae.me/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/emmanuel-mwamba-677186301">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
+</a>
+<a href="https://x.com/EM_GOM_">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" />
+</a>
 
----
-
-### Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/EM_GOM_?t=eGZW8JlmA8TeA1LCfNYICQ&s=09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AHUuryLyg/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel_graceovermoney?igsh=dXF5cWliMm4zMWI2)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emmanuel_graceovermoney?si=F83LNA891TK5Qpl1)
+</div>
 
 ---
 
-### Languages & Tools I Use:
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Canva" width="30px" src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" />
-<br><br>
+## About Me
+
+I’m a **Software Developer and Startup Founder** focused on building practical software, IT solutions, and business solutions that solve real problems.
+
+I’m the **Founder & CEO of EICTA Technologies**, a **Software, IT & Business Solutions Company** focused on helping businesses operate better, automate processes, and grow through technology.
+
+I’m also building **ShopLink**, an **Internet Marketplace Platform** and a product of EICTA Technologies, connecting customers with local businesses and sellers.
+
+**ShopLink Market** connects customers with businesses through an internet marketplace, while **ShopLink Lite** gives small businesses a **WhatsApp-powered storefront** to showcase products and receive orders.
+
+I enjoy taking ideas from **problem → concept → development → product** and continuously learning through building.
 
 ---
 
-### Currently Exploring:
-- Backend frameworks & APIs
-- Frontend frameworks
-- Modern JavaScript libraries
-- Machine Learning basics
-- Cybersecurity tools and practices
+## EICTA Technologies
+
+### Software, IT & Business Solutions Company
+
+**EICTA Technologies** delivers solutions across:
+
+**Software Development · IT Solutions · Business Solutions · Automation · Digital Transformation**
+
+We build and implement technology that helps businesses **operate better, solve problems, and grow digitally**.
+
+> **EICTA Technologies — Your Number #1 Partner In Digital Success & Innovation.**
 
 ---
 
-### GitHub Stats:
+## What I'm Building
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" /> |
-|:--:|:--:|
+### ShopLink
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+**ShopLink** is an **Internet Marketplace Platform** and a product of EICTA Technologies, connecting customers with local businesses and sellers through a simple digital commerce experience.
+
+**ShopLink Market**  
+An internet marketplace where customers discover local businesses and explore products.
+
+**ShopLink Lite**  
+A WhatsApp-powered storefront that helps small businesses showcase products and services and receive orders directly through WhatsApp.
+
+> **Shop Local. Sell Smarter. Connect Faster.**
+
+---
+
+## What I Do
+
+> **Building software from idea to implementation.**
+
+**01 · Web & Full-Stack Development**  
+Web applications, full-stack systems, APIs, databases, and backend development.
+
+**02 · Mobile Development**  
+Cross-platform applications and mobile-first experiences.
+
+**03 · Business & IT Solutions**  
+Business systems, automation, integrations, and practical digital solutions.
+
+**04 · Product Development**  
+SaaS products, marketplaces, platforms, and business technology.
+
+**05 · Software Engineering**  
+System design, database architecture, API development, software architecture, and development workflows.
 
 ---
 
-### Quote of the Day:
-> "Your life doesn’t improve by waiting for luck; it improves by embracing change. Keep growing, keep creating, and never stop evolving." <br> - Emmanuel 
+## Technologies & Tools
+
+### Languages
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
+
+</div>
+
+### Web Development
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" title="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+<img src="https://cdn.simpleicons.org/express/ffffff" width="45" title="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
+
+</div>
+
+### Mobile Development
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio"/>
+<img src="https://cdn.simpleicons.org/expo/FFFFFF" width="45" title="Expo"/>
+
+</div>
+
+### Backend, Databases & Cloud
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" title="MariaDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" title="Prisma"/>
+
+</div>
+
+### Development Tools & Platforms
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman"/>
+<img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=000000" width="100" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+
+</div>
+
+### Design & Product
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+
+</div>
 
 ---
 
-### Profile Views:
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+## Software Engineering
+
+**Software Architecture · System Design · Database Design · UML & Modeling · ERDs · API Development · SDLC · Agile / Scrum · CI/CD · PWA Development**
+
+### **Understand → Build → Test → Learn → Improve**
+
+I believe in **learning by building** and turning real problems into practical software.
 
 ---
-  
+
+## What I'm Interested In
+
+**Software Products · SaaS · Business Platforms · Automation · AI-Powered Solutions · Mobile Applications · PWAs · Digital Transformation · African Technology · Entrepreneurship**
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+### Building in Public · One Commit at a Time
+
+**Web Development · Mobile Development · Backend Systems · Business Solutions**
+
+<br>
+
+<a href="https://github.com/devmwamba">
+  <img src="https://ghchart.rshah.org/devmwamba" alt="GitHub contribution graph" width="100%"/>
+</a>
+
+</div>
+
+---
+
+## Certifications
+
+- **AI-Driven Software Development** — Northrise University
+- **Full Stack Web Development** — Udemy
+- **Full Stack Web Development** — Science Exploration Zambia
+- **Graphic Design** — Udemy
+- **Web Design & Creation with WordPress** — Shumba Training Center
+
+---
+
+## Beyond Code
+
+I’m interested in **entrepreneurship, leadership, personal growth, faith, and building things that create meaningful impact**.
+
+I’m documenting the journey, sharing what I learn, and building from the ground up.
+
+---
+
+## My Quote
+
+<div align="center">
+
+### “Your life doesn’t improve by waiting for luck; it improves by embracing change. Keep growing, keep creating, and never stop evolving.”
+
+**— Emmanuel Mwamba**
+
+</div>
+
+---
+
+**Building today. Learning every day.**
+
+</div>
+
 <!---
-EmmanuelMwamba/EmmanuelMwamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+EmmanuelMwamba/EmmanuelMwamba is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
